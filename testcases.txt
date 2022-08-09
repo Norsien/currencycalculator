@@ -1,0 +1,7 @@
+1. File not in the directory -> start program -> error message popup and program closes.
+2. File invalid -> start program -> error message popup and program closes.
+3. Invalid value in input field -> click calculate -> error message popup.
+4. Negative value in input field -> click calculate -> return calculated value.
+5. No value in input field -> click calculate -> error message popup.
+6. Positive value in input field -> click calculate -> return calculated value.
+7. Chosen currency did not have rate attribute in xml file -> click calculate -> error message popup.
